@@ -7,4 +7,4 @@ Excel and Tableau task to format and visualise data on GDP of different countrie
   1. Format data to include only the top 20 ranked countries and in Sterling Pound(£)
   2. Accessibility: client in colour-blind
 
-NOTE: Whilst the tableau file (.twbx) has been uploaded, a link to the visualisation on Tableau Public is also included.
+*NOTE: Whilst the tableau file (.twbx) has been uploaded, a link to the visualisation on Tableau Public has been included in the About section.*
